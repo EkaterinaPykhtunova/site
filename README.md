@@ -1,1 +1,7 @@
 # site
+
+## DEVELOPER INFO
+
+*NAME*: EKATERINA PYKHTUNOVA
+
+*E-MAIL*: eegorova12@ya.ru
